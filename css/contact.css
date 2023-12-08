@@ -1,5 +1,4 @@
-
-.c-contact{
+.c-contact {
   /* margin-top: 10%; */
   display: flex;
   gap: 90px;
@@ -7,56 +6,66 @@
   margin-bottom: 5%;
 }
 
-.c-contact h1{
+.c-contact h1 {
   font-size: 60px;
 }
-.c-contact span{
- color: blue;
+
+.c-contact span {
+  color: blue;
 }
-.c-contact span:hover{
+
+.c-contact span:hover {
   color: gray;
   font-weight: 700;
   background: none;
   transition: all 0.3s ease 0s;
   cursor: pointer;
 }
-.c-contact p{
+
+.c-contact p {
   font-size: 18px;
   margin-top: 10%;
   /* word-spacing: 10px; */
   line-height: 30px;
 }
-.c-intouch{
+
+.c-intouch {
   display: flex;
   margin-top: 5%;
   gap: 50px;
 }
-.get-in-touch{
+
+.get-in-touch {
   line-height: 80px;
   /* border: 1px solid white; */
   width: 60%;
   text-align: center;
 }
-.get-in-touch h1{
+
+.get-in-touch h1 {
   font-size: 60px;
   font-weight: 600;
   margin-bottom: 20px;
 }
-.get-in-touch p{
+
+.get-in-touch p {
   font-size: 20px;
   line-height: 20px;
 }
-.c-contact-form{
+
+.c-contact-form {
   font-size: 19px;
   font-weight: 30;
   margin-left: 10%;
 }
-.c-name{
+
+.c-name {
   margin-bottom: 30px;
   /* height: 50px; */
-  
+
 }
-.c-name input{
+
+.c-name input {
   font-size: 19px;
   margin-top: 10px;
   height: 40px;
@@ -66,18 +75,20 @@
   outline: none;
   border: none;
 }
-.email-form{
+
+.email-form {
   font-size: 19px;
   width: 610px;
   height: 40px;
-  margin-top:10px ;
+  margin-top: 10px;
   padding-left: 15px;
   border-radius: 5px;
   outline: none;
   border: none;
   margin-bottom: 30px;
 }
-.message-form{
+
+.message-form {
   margin-top: 10px;
   width: 610px;
   height: 200px;
