@@ -34,6 +34,8 @@ img {
 }
 .grow p{
   font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 .grow img {
   transition: 1s ease;
