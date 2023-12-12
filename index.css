@@ -57,7 +57,7 @@ ul {
   margin: 0;
   padding: 0;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 li {
@@ -104,6 +104,24 @@ li a {
 .mini-info {
   margin: 25px;
   width: 100%;
+}
+
+.i-ed{
+  display: block;
+  /* background: ; */
+  border: 3px solid #BA0020FF;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
+.i-ed p{
+border: 3px solid white;
+width: 200px;
+text-align: center;
+margin: 10px;
+border-radius: 50px;
+
 }
 .i-about-me{
   line-height: 30px;
